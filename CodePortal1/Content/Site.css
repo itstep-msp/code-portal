@@ -1,0 +1,54 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+.header-box {
+    text-align: center;
+    padding: 10% 0;
+    background-image: url("../Images/bg1.jpg");
+    background-size: cover;
+    margin-bottom: 30px;
+}
+.header-box h1 {
+    color: khaki;
+    font-size: 5em;
+    text-shadow: 2px 2px red;
+}
+.header-box div {
+    width: 60%;
+    margin: 40px auto;
+    color: white;
+    font-size: 1.75em;
+}
+.header-box p {
+    margin-top: 75px;
+}
+.my-btn-1 {
+    width: 175px;
+    padding: 8px;
+    margin: 2px;
+}
+.my-btn-2 {
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    width: 100px;
+    padding: 7px;
+    margin: 2px;
+}
+.card {
+    border: 1px solid lightgray;
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 5px 5px 10px lightgray;
+    background-color: whitesmoke;
+    margin-bottom: 30px;
+}
+.card-top {
+    text-align: center;
+}
+.card-top img {
+    width: 75%;
+}
+.card-body p {
+    margin: 15px 0px;
+}
